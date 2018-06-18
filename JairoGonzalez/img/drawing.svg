@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="drawing.svg">
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-58.704377 : 146.45259 : 1"
+       inkscape:vp_y="0 : 754.07621 : 0"
+       inkscape:vp_z="340.1603 : 146.45259 : 1"
+       inkscape:persp3d-origin="140.72796 : 109.12582 : 1"
+       id="perspective3883" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="198.24486"
+     inkscape:cy="607.40645"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:measure-start="0,0"
+     inkscape:measure-end="0,0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     showguides="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <rect
+       style="display:inline;fill:#000000;fill-opacity:1;stroke-width:0.29161417"
+       id="rect4630"
+       width="68.413681"
+       height="10.583337"
+       x="38.553574"
+       y="153.74702" />
+    <rect
+       style="display:inline;fill:#161616;fill-opacity:1;stroke-width:0.29161417"
+       id="rect4630-9"
+       width="68.413681"
+       height="10.583338"
+       x="94.116066"
+       y="176.99255" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+       id="rect4649"
+       width="60.098228"
+       height="9.4494038"
+       x="104.23213"
+       y="-48.002979"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#181818;fill-opacity:1;stroke-width:0.26458332"
+       id="rect4649-1"
+       width="60.098228"
+       height="9.4494038"
+       x="127.47767"
+       y="-162.52975"
+       transform="rotate(90)" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+       id="rect4578"
+       width="21.166666"
+       height="97.895836"
+       x="85.800591"
+       y="66.434525" />
+    <rect
+       style="fill:#181818;fill-opacity:1;stroke-width:0.26458332"
+       id="rect4595"
+       width="21.166664"
+       height="97.895836"
+       x="94.116066"
+       y="89.680069" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+       id="rect4597"
+       width="48.380955"
+       height="10.205358"
+       x="58.5863"
+       y="66.434525" />
+    <rect
+       style="display:inline;fill:#161616;fill-opacity:1;stroke-width:0.26458332"
+       id="rect4597-3"
+       width="48.380955"
+       height="10.205358"
+       x="94.116066"
+       y="89.680069" />
+    <rect
+       style="display:inline;fill:#161616;fill-opacity:1;stroke-width:0.17025326"
+       id="rect4597-3-7"
+       width="20.03274"
+       height="10.205358"
+       x="142.49701"
+       y="127.47767" />
+  </g>
+</svg>

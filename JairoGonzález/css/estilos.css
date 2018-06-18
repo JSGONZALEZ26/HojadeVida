@@ -1,0 +1,152 @@
+body{
+  font-family: 'Dancing Script', cursive;
+  background-color: #02010a;
+  margin-left: 80px;
+  margin-right: 80px;
+  animation: rebote 1s;
+}
+#cabecera{
+  background-color: #5b7989;
+  width: 100%;
+  border-radius: 10px 10px 0px 0px;
+  color: #fff;
+}
+
+#cabecera,h2{
+  display: block;
+  float: none;
+  text-shadow: 2px 2px 2px #02010a;
+}
+h2{
+  text-align: left;
+  width: 100%;
+  padding: 16px;
+}
+#cabecera,section,a{
+  text-align: right;
+  text-shadow: none;
+  padding: 3px;
+  color: #fff;
+}
+#imagenCentral{
+  display: block;
+  background-color: #82c3a6;
+  width: 100%;
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+img{
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    box-shadow: 2px 2px 2px 0 #02010a;
+}
+a{
+  font-size: 20px;
+  text-decoration: none;
+}
+#imagenSecundaria{
+  width: 100%;
+  display: flex;
+  background-color: #d5c75f;
+  border: 1px;
+  color: #02010a;
+}
+#paisajes{
+  padding: 0px;
+  display: flex;
+  box-shadow: 2px 2px 2px 0 #02010a;
+}
+#retratos{
+  padding: 0px;
+  display: flex;
+  box-shadow: 2px 2px 2px 0 #02010a;
+}
+#imagenpaisajes:hover{
+  animation: rotacion 2s;
+}
+#imagenretratos:hover{
+  animation: traslacion 2s;
+}
+#piedepagina{
+  width: 100%;
+  display: flex;
+  background-color: #C6d5c5;
+  border: 1px;
+  color: #02010a;
+  border-radius: 0px 0px 10px 10px;
+}
+p{
+  color: black;
+  text-align: center;
+}
+#informacion{
+  font-weight: bold;
+  text-align: left;
+}
+#redes{
+  font-weight: bold;
+  text-align: left;
+}
+div{
+  margin: 16px;
+}
+h3{
+  text-align: left;
+}
+h4{
+  text-align: left;
+}
+@-webkit-keyframes rotacion{
+  from{
+    display: inline;
+  }
+  to{
+    transform: rotate(10deg);
+  }
+}
+@-webkit-keyframes traslacion{
+  from{
+    display: flex;
+  }
+  to{
+    transform: translate(20px,-5px);
+  }
+}
+@-webkit-keyframes rebote{
+  0%{
+    margin-top: 150%;
+  }
+  60%{
+    margin-top: -5%;
+  }
+  100%{
+    margin-top: 0%;
+  }
+}
+@media (max-width:900px) {
+  body{
+    margin: 16px;
+  }
+  #cabecera{
+    display: inline-block;
+  }
+  h2{
+    text-align: center;
+  }
+  #cabecera,h2{
+    float: left;
+    text-shadow: 2px 2px 2px #02010a;
+  }
+  #cabecera,a{
+    text-align: center;
+    float: none;
+    display: inline-block;
+  }
+  #imagenSecundaria{
+    display: block;
+  }
+  #piedepagina{
+    display: block;
+  }
+}
